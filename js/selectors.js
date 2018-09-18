@@ -12,5 +12,5 @@ function ninjaBabySelector(){
 }
 
 function divSelector(){
-    return $('div').slice(2, -1);
+    return $('div').slice(-2);
 }
