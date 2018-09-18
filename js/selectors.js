@@ -10,3 +10,4 @@ function lastImageSelector(){
 
 
 }
+console.log("auoahoouh");
