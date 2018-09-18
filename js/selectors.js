@@ -4,8 +4,8 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-    const imgs = $('img').last();
-    
+    return $('img').last();
+
 
 
 
