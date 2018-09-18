@@ -11,4 +11,3 @@ function lastImageSelector(){
 
 }
 
-console.log(imgs);
