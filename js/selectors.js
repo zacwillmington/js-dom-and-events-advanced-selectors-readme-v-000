@@ -5,9 +5,7 @@ function paragraphSelector(){
 
 function lastImageSelector(){
     const imgs = $('img');
-    console.log(imgs);
-    console.log("auoahoouh");
+
 
 
 }
-
